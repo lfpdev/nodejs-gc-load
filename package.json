@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-gc-load",
+  "version": "1.0.0",
+  "description": "nodejs gc load",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theanarkh/nodejs-gc-load.git"
+  },
+  "keywords": ["nodejs", "gc", "load"],
+  "author": "theanarkh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theanarkh/nodejs-gc-load/issues"
+  },
+  "homepage": "https://github.com/theanarkh/nodejs-gc-load#readme"
+}
