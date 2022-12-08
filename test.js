@@ -9,3 +9,5 @@ setInterval(() => {
 setInterval(() => {
     console.log(gcObserver.load())
 }, 5000);
+
+// node --expose-gc "/home/lfp/src/nodejs-gc-load/test.js"
